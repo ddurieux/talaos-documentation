@@ -1,4 +1,6 @@
 site_name: Talaos
 pages:
 - [index.md, Home]
+- user_guide.md
+- developper_guide.md
 theme: readthedocs

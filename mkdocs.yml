@@ -1,0 +1,4 @@
+site_name: Talaos
+pages:
+- [index.md, Home]
+theme: readthedocs

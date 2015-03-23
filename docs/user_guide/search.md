@@ -2,7 +2,18 @@ There are 2 types of conditions.
 
 # Condition: simple
 
+The condition is composed of:
+
+* *Asset type*: Select the type of asset
+* *Property name*: Name of property of the *asset type* selected
+* *Condition operator*: Condition operator (=, >, >=, <, <=, like)
+* *value*: Value of the condition. For *condition operator* **like**, you can use %
+* *Child*: *no child* mean you will get element of *asset type* defined / 
+*direct child (first level)* mean you will get asset parent of this *asset type*
+
 # Condition: group
+
+You can add many sub-(simple conditions)
 
 # Operator: intersection
 

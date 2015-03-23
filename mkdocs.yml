@@ -1,6 +1,7 @@
 site_name: Talaos
 pages:
 - [index.md, Home]
-- user_guide.md
-- developper_guide.md
+- [user_guide/intro.md, 'User guide', 'Intro']
+- [user_guide/search.md, 'User guide', 'Search engine']
+- [developper_guide/intro.md, 'Developper guide', 'Intro']
 theme: readthedocs
